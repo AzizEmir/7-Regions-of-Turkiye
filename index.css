@@ -77,12 +77,12 @@ p{
 }
 
 .harita {
-    background-image: url(ArkaPlan4.jpg);
+    background-image: url(./resimler/ArkaPlan4.jpg);
     background-repeat: repeat-x;
     background-size: 100%;
 }
 
 .banner {
-    background-image: url(banner.jpg);
+    background-image: url(./resimler/banner.jpg);
     width: 100%;
 }

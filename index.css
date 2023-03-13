@@ -1,0 +1,88 @@
+html,
+body {
+    margin: 0;
+}
+
+p{
+    font-family: Gill Sans;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.footer img{
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.bannerBoyut {
+    height: 100px;
+    width: 100%;
+}
+
+.st0 {
+    fill: #3F2CC3;
+
+}
+
+.st0:hover {
+    margin: -50px;
+}
+
+.st1 {
+    fill: #FF4AC9;
+}
+
+.st2 {
+    fill: #0A8BFF;
+}
+
+.st3 {
+    fill: #36E6B8;
+}
+
+.st4 {
+    fill: #FF685F;
+}
+
+.st5 {
+    fill: #4AFF4A;
+}
+
+.st6 {
+    fill: #FF8800;
+
+}
+
+.st7 {
+    fill: #EA2551;
+}
+
+.st9 {
+    font-size: 14px;
+}
+
+.st10 {
+    font-family: 'Futara';
+}
+
+.st11 {
+    font-size: 12.0746px;
+}
+
+.akdeniz {
+    font-size: 10px;
+}
+
+.harita {
+    background-image: url(./resimler/ArkaPlan4.jpg);
+    background-repeat: repeat-x;
+    background-size: 100%;
+}
+
+.banner {
+    background-image: url(./resimler/banner.jpg);
+    width: 100%;
+}
